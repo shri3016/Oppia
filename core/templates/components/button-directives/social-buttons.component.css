@@ -49,15 +49,23 @@
   padding: 5px 10px;
 }
 .oppia-footer-social .oppia-footer-social-icons .oppia-twitter-follow {
-  background: #1da1f2;
+  background: #000000;
   margin-right: 6px;
   padding: 5px 6px;
 }
+.oppia-footer-social .oppia-footer-social-icons .oppia-github-follow {
+  background: #fff;
+  margin-right: 6px;
+  padding: 5px 6px;
+  
+}
+
 .oppia-footer-social .oppia-facebook-follow  i.oppia-follow-icons.fab.fa-facebook {
   bottom: -7px;
   position: relative;
   right: -5px;
 }
+
 .oppia-footer-social .oppia-youtube-follow  i.oppia-follow-icons.fab.fa-youtube-play {
   font-size: 18px;
   left: -0.35px;
